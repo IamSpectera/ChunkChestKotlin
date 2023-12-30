@@ -1,0 +1,7 @@
+messages:
+  inventoryFull: "Your inventory is full."
+  receivedChunkChest: "You've received a Chunk Chest!"
+  reload: "You have reloaded"
+chunkchest:
+  title: "Chunk Chest"
+  notplayer: "Only players can use this command."

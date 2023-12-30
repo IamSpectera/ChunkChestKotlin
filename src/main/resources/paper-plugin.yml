@@ -1,0 +1,14 @@
+name: ChunkChestKotlin
+version: '${version}'
+main: com.specter.chunkchestkotlin.ChunkChest
+api-version: '1.20'
+
+command:
+    chunkchest:
+        description: Give a Chunk Chest
+        usage: /chunkchest
+        aliases: [cc]
+    reload:
+        description: Reload the plugin
+        usage: /chunkchest reload
+        aliases: [ccreload]
